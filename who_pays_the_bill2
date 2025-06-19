@@ -1,0 +1,4 @@
+import random
+print("Let's see who is gonna pay the bill tonight!")
+friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
+print("The Bill is on: "+random.choice(friends))
