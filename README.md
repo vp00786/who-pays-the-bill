@@ -13,3 +13,6 @@ This Python script is a fun way to randomly choose who among your friends will p
 ## 🧾 Example Output
 Let's see who is gonna pay the bill tonight!
 The bill will be paid by: Charlie
+
+Let's see who is gonna pay the bill tonight!
+The Bill is on: Bob
