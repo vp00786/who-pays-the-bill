@@ -11,4 +11,5 @@ This Python script is a fun way to randomly choose who among your friends will p
 - It then prints who has been "chosen" to pay the bill.
 
 ## 🧾 Example Output
-
+Let's see who is gonna pay the bill tonight!
+The bill will be paid by: Charlie
