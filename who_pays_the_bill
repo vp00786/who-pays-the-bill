@@ -1,0 +1,7 @@
+import random
+print("Let's see who is gonna pay the bill tonight!")
+friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
+a=0
+b=4
+num=random.randint(a,b)
+print("The bill will be paid by: "+friends[num])
